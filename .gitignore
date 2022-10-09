@@ -1,4 +1,3 @@
-sonar-project.properties
 build_debug/*
 build/*
 .vscode
